@@ -1,0 +1,1 @@
+iperf3 -c 96.230.72.110 > c:\vrc\logfile.log
